@@ -1,0 +1,16 @@
+{
+  "name": "write-pagenum-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hummus": "^1.0.108"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
